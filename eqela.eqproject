@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# rect
+#
+
+projectname: rect
+vendorid: com.kaw.example
+mainmodule: com.kaw.example.rect
